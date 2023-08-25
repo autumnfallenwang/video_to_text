@@ -1,7 +1,6 @@
 import os
 import moviepy.editor as mp
 import argparse
-import whisper
 from whisper import load_model, transcribe, available_models
 from whisper.utils import get_writer
 from whisper.tokenizer import LANGUAGES, TO_LANGUAGE_CODE
