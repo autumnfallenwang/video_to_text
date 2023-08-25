@@ -1,0 +1,17 @@
+# Temperary files
+__pycache__/
+.DS_Store
+__MACOSX/
+
+# Ignore output directory
+output/
+
+# Ignore video and audio files
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mkv
+*.flv
+*.mov
+*.wmv
