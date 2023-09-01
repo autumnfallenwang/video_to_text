@@ -106,7 +106,7 @@ python v2t.py --task audio --audio path_to_audio_file.wav --translate
 python v2t.py --task audio --audio path_to_audio_file.wav --verbose false
 ```
 
-### Combine arguments as needed. For example, to transcribe a Spanish video, save the results as a txt file, and translate it to English:
+### Combine arguments as needed. For example, to transcribe a Spanish video, save the results as a txt file, and translate it to English
 ```bash
 python v2t.py --task video --video path_to_video_file.mp4 --language es --output_format txt --translate
 ```
