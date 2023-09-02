@@ -8,10 +8,18 @@ output/
 
 # Ignore video and audio files
 *.mp4
+*.MP4
 *.mp3
+*.MP3
 *.wav
+*.WAV
 *.avi
+*.AVI
 *.mkv
+*.MKV
 *.flv
+*.FLV
 *.mov
+*.MOV
 *.wmv
+*.WMV
